@@ -1,0 +1,330 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble representation of Samuel Lambe of London merchant</title>
+            <author>Lambe, Samuel.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48551</idno>
+            <idno type="STC">Wing L228</idno>
+            <idno type="STC">ESTC R216134</idno>
+            <idno type="EEBO-CITATION">99827884</idno>
+            <idno type="PROQUEST">99827884</idno>
+            <idno type="VID">32308</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48551)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32308)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1852:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble representation of Samuel Lambe of London merchant</title>
+                  <author>Lambe, Samuel.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1658]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Concerns foreign trade.</note>
+                  <note>Reproduction of the original in the Goldsmiths Library, University of London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Foreign trade promotion --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  Commerce --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:32308:1"/>
+            <head>The humble Repreſentation of <hi>Samuel Lambe</hi> of <hi>London</hi> Merchant.</head>
+            <p>AS Forrain Traffick &amp; Merchandize is one cheif way to make a Nation rich and flouriſhing, ſo the ſpare Commodities in ſome Countries, and want thereof in others, is the cauſe of ſuch Traffick and Merchandize. In the managing whereof between <hi>England</hi> and our Neighbour Countries I have, for the publick good, briefly ſet down the evills with the Remedies, humbly ſub<g ref="char:EOLhyphen"/>mitting it to the grave conſideration of this Honourable Comittee.</p>
+            <list>
+               <item>
+                  <label>1. We had Bullion, and did Coin money.</label> ☞ Our Neighbours Countries have much of our money, and now little is coined.</item>
+               <item>
+                  <label>2. We raiſe woolls, and have fullers Earth.</label> They drape with our woolls and fullers Earth.</item>
+               <item>
+                  <label>3. We make woollen cloth.</label> They dreſſe and dye our cloth and underſell us at market therewith.</item>
+               <item>
+                  <label>4. We make Lead and Tinne.</label> They under-ſell us at market with our Lead and Tynne.</item>
+               <item>
+                  <label>5. We have fiſhing.</label> They catch our fiſh, and ſerve moſt part of Chri<g ref="char:EOLhyphen"/>ſtendome therewith.</item>
+               <item>
+                  <label>6. We have Coles.</label> They tranſport and ſell our Coles.</item>
+               <item>
+                  <label>7. We decay in Trading Shipping.</label> They increaſe in Trading Shipping.</item>
+               <item>
+                  <label>8. We buy Spaniſh fruit and wine at a dear rate:</label> They prohibit Engliſh manufactures and buy a few covertly at a low rate.</item>
+               <item>
+                  <label>9. We have no Bank for the furtherance of trade.</label> They have Bankes for their advantage to trade.</item>
+               <item>
+                  <label>10. We have no Courts of Merchants.</label> They have Courts of Merchants.</item>
+            </list>
+            <div type="trade_problem">
+               <head>Firſt touching Monyes.</head>
+               <p>Experience telleth us that all the ſevere Lawes hitherto made in many Kings Reignes to reſtrain tranſporting it hath been of ſmall effect, whoſe care endeavoured all that could be to increaſe and preſerve it here, but our Neighbour Princes and States, to gain it from us, have imitated bad neigh<g ref="char:EOLhyphen"/>bours to private men, who to inveigle away a good ſervant, do proffer higher wages than he had of his old Maſter; ſo they raiſe the value of Bullion (the good Servant to all States) to intice the cove<g ref="char:EOLhyphen"/>tous Merchant to carry it to them, notwithſtanding all Lawes and penalties to the contrary, the want whereof cauſeth deadneſs and decay of Trade, and hindereth levying of it by a Law for pub<g ref="char:EOLhyphen"/>lick uſes.</p>
+            </div>
+            <div type="remedy">
+               <head>The Remedies.</head>
+               <p>Firſt if a Bank be ſetled in <hi>England,</hi> a Law may be made for all ſtrangers to make receits and payments therein for all they deal for, and then they cannot tranſport it in <hi>ſpecie</hi> inſtead of making returnes in Commodities.</p>
+               <p>Secondly to raiſe the Coines and make our Money as valuable at home as abroad, for when the cauſe is taken away there will be leſſe need of a Law for a Remedy of this evill.</p>
+               <p>Or by a treaty with other Nations, at leaſt with the Dutch, and French, thereby agreeing on a ſet<g ref="char:EOLhyphen"/>led certain value of the coynes reſpectively to be continued without alteration.</p>
+            </div>
+            <div type="trade_problem">
+               <head>Secondly for our woolls, and fullers Earth.</head>
+               <p>Our woolls the materiall &amp; ground-work of much of our manufactures, for being wrought into Draperies therein imploying many people, as cloth the Turky Merchants in return thereof Import Raw ſi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k, Grograin Yarn, Cotton-woolls &amp;c. to be alſo manufactured here, imploying multitudes of people, and likewiſe the Merchants, trading into other Countries, have made returnes in Bullion and other uſefull Commodities; therefore very unfit to be tranſported unwrought; eſpecially when our Neighbours ſo much endeavour to exceed us in clothing; But to the end the Engliſh eye ſhould not ſee it, though poſterity may rue it, It is not Carded, Combed, and privately ſteeved into Caſk alſo fullers Earth, and Shipt off by the connivence of the Cuſtomer under the name of other goods, and alſo in the Fleece by ſtealth in the night, with the privity, i<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> not aſſiſtance, of him that ſold it<g ref="char:punc">▪</g> and do not Packers, and other Agents, buy cloth and other Draperies and ſhip them off in their own names for ſtrangers, againſt their Oathes and the Lawes, to the ruin of their Countrymen, en<g ref="char:EOLhyphen"/>riching themſelves and ſtrangers.</p>
+            </div>
+            <div type="remedy">
+               <pb n="2" facs="tcp:32308:2"/>
+               <head>The Remedy.</head>
+               <p>Severe letters ſhould be written to the Officers in all Ports, &amp; they alſo take an oath that they ſuffer no exportation of Wool and Fullers Earth beyond Seas upon pain and forfeiture of their places, and ſuch other puniſhments as ſhall be requiſite, That the lawes for true making woollen manufactures, be ſtrengthened, revived, &amp; executed, againſt tranſgreſſours; &amp; that no more charge be laid on them then the market abroad will bear, to the end the Merchant may afford to ſell them at as low a price as any of the ſame kind made in another Country, which will diſcourage their making any, when we can underſell them, and encourage the wearer to buy of thoſe made in <hi>England,</hi> rather than <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> made in another Country, having as good and better cheap, ſo they being taken off from ma<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>, will neither want nor deſire the materialls of wool and fulling earth, and this with a Bank and other good Orders, will hinder Packers and others in buying Draperies and Shipping them off for ſtrangers, which neither the Lawes nor Oathes can reſtrain.</p>
+               <p>That no woollen cloth be ſuffered to be imported out of <hi>Holland,</hi> as now is, nor any other wool<g ref="char:EOLhyphen"/>len Manufactures.</p>
+            </div>
+            <div type="trade_problem">
+               <head>Thirdly for Cloth.</head>
+               <p>Thoſe true-made white and undreſt Clothes ſent into <hi>Holland,</hi> the Dutch dye, dreſſe, and ſtrain to ſuch lengths, that by the overpluſs of meaſure they underſell the Engliſh in that cloth, which is dyed and dreſt at home, when both ſorts meet at the market, and the ſame ſtrained cloth being found ſo deceitfull in wearing, that it not only brings all Engliſh cloth into diſeſteem, becauſe ſold under the Engliſh Seal, but hinders the Artiſt of the manufacture of dying and dreſſing all the cloth ſo Shipt out, and alſo cauſeth ſlight making of other cloth in <hi>England</hi> that it may be affor<g ref="char:EOLhyphen"/>ded as cheap as ſuch ſtrained cloth at Market.</p>
+            </div>
+            <div type="remedy">
+               <head>The Remedy.</head>
+               <p>That the fift or tenth cloth of thoſe white and undreſt Clothes tranſported be injoyned to be fully manufactured in their dye and dreſſe the firſt year, and the like number ſo perfectly manufactured to be increaſed every year according as the State ſhall direct, untill none but coloured cloth be ſent, by which meanes the Engliſh Artiſt will have the dying and dreſſing of all the cloth, which uſed to be Shipt off rough and white, which cannot ſo well be done in one or two yeares time; ſo the Engliſh Merchants trading into other Countries will not then be hindred by thoſe clothes in the ſale of others, nor will the Engliſh cloth be diſeſteemed by being abuſed and falſified under the Engliſh Seal when none but true made cloth will be tranſported.</p>
+            </div>
+            <div type="trade_problem">
+               <head>Fourthly for Lead and Tynne.</head>
+               <p>They are two Staple Commodities: And as ſtrangers buy our Draperies at the beſt hand, by their Packers and other Agents, ſo they may our Lead, which I have known to riſe at an herring Seaſon or Turky Shipping about 20. <hi>per Cent.</hi> then they buying it at the loweſt rate, may afford to ſell it at market with profit, at the price it coſt the Engliſh Merchants at home; alſo as they buy our cloth white and rough, and dye and dreſſe it themſelves, and ſo falſify it by ſtretching; that with the overplus of meaſure they are enabled to underſell our true made cloth at Market which is dyed and dreſt in <hi>England.</hi> So they buy our Tynne, part of which they make into Pewter for their own uſe, and to ſell again in other Countries, as formerly to our plantations, and the reſt they caſt again and mix it with an Allay of Lead, and ſend it into other Countries by which meanes they ſo un<g ref="char:EOLhyphen"/>derſell our fine Tynne.</p>
+            </div>
+            <div type="remedy">
+               <head>The Remedy.</head>
+               <p>Firſt for the Lead; If a Bank were ſetled in <hi>England,</hi> it would ſo much increaſe the Generall ſtock that the Engliſh would buy it themſelves at the cheapeſt ſeaſon, and ſo hinder ſtrangers buying it; or keep the market at a certain price and then we could not be underſold in it abroad.</p>
+               <p>Secondly for our Tynne, If the Merchant, the Pewterer, and the Tynner, be conſulted with, much more may be manufactured at home into pewter, and much leſſe ſent abroad in kind; except what is ſent into Turky by the Engliſh Merchants.</p>
+            </div>
+            <div type="trade_problem">
+               <head>Fiftly for our Fiſhing.</head>
+               <p>The wonderfull providence of Almighty God, ſtoring our Seas with ſeverall kindes in the reſ<g ref="char:EOLhyphen"/>pective Seaſons of the year (for the ſuſtenance of mankind) may condemn us of ſlothfullneſs if not ingratitude, for ſo great bleſſings, when our Neighbours make ſo great advantage of it beyond our ſelves that it proves to them, as our Draperies uſed to do to us <hi>viz.</hi> as the <hi>Weſt Indies</hi> to the King of <hi>Spain,</hi> and an <hi>Eaſt Indies</hi> to the Dutch; bringing home, with the proceed thereof, out of ſe<g ref="char:EOLhyphen"/>verall Countries from <hi>Archangell</hi> to the Gulfe of <hi>Venice,</hi> ſundry ſorts of Commodities bought at the beſt hand and ſelling them again in other Countries at the beſt price. This noble and profi<g ref="char:EOLhyphen"/>table
+<pb n="3" facs="tcp:32308:2"/>
+work, I have heard long talke of, but is not yet undertaken, peradventure by reaſon of our Domeſticke Broiles, but chiefly I conceive, through want of a good Stock to begin.</p>
+            </div>
+            <div type="remedy">
+               <head>The Remedy.</head>
+               <p>Firſt a conſiderable joynt Stock ſhould be raiſed and managed, as the <hi>Eaſt-India</hi> Company doth theirs, with fitting Orders and Priviledges for their Government and Encouragement, which with Gods bleſſing will prove very advantageous to the Nation in generall, by increa<g ref="char:EOLhyphen"/>ſing Shipps and Mariners, employing many people therein; and profitable to the Adventurers in particular; my ſelfe having gained clear above two of one within one year dealing therein, and Veſſells enough for the worke, may be built in <hi>New-England</hi> cheaper than in Old, and ſave Timber here.</p>
+               <p>Secondly, in the mean time, that no duty be impoſed upon Fiſh now taken and ſhipt beyond Seas by the Engliſh Merchants. And that all Fiſh be tranſported in Engliſh Ships, ſailed onely with Engliſhmen.</p>
+            </div>
+            <div type="trade_problem">
+               <head>Sixtly for Coles.</head>
+               <p>The great bleſſing of God to this Nation, hath made the very Bowells of the Earth, aſwell as the Waters, to yeild us Treaſure, if we do but ſtretch forth the hand to receive it and im<g ref="char:EOLhyphen"/>prove it to our advantage, this being ſo uſefull a Commodity, that ſome places in <hi>England</hi> cannot well ſubſiſt without them, and ſo much deſired in many Countries abroad for their eſpeciall uſefullneſs, that their neceſſities alſo cannot well want them, aſwell thoſe of <hi>Scotland,</hi> as of <hi>Newcaſtle</hi> and <hi>Sunderland.</hi>
+               </p>
+            </div>
+            <div type="remedy">
+               <head>The Remedy.</head>
+               <p>That as a greater duty is layd on thoſe tranſported, than on thoſe ſpent within our ſelves, ſo none ſhould be tranſported but in Engliſh Ships, ſailed onely with Engliſh men.</p>
+            </div>
+            <div type="trade_problem">
+               <head>Seventhly for our Trading Shipping.</head>
+               <p>The loſſes of our great Ships tradeing to the Southward by the French before the Peace. And the loſſe of ſome ſuch, beſides many leſſer Ships ſince the Spaniſh Warre. And ſo few built in lieu thereof doth manifeſt a very great decay of Trading Shipping in generall, beſides the loſſe every one feels in his particular that is concerned therein; Therefore to ſtrengthen us, and build up the Walls of our Land again, to keep off a Foreigne Enemy, ought to be the true endeavour of every Engliſhman that is well affected to his Native Countrey, and to deny himſelfe the hope of a ſmall profit irregularly gain'd, which doth enrich and ſtrengthen another Nation, and weaken and impoveriſh his own, by ſubtilly contriving how to undermine and abuſe the intent of the law for increaſe of Navigation.</p>
+            </div>
+            <div type="remedy">
+               <head>The Remedy.</head>
+               <p>To enlarge the ſayd Act, and make it more ſevere, alſo to employ onely Engliſh Marriners and Ships wholly belonging to Engliſhmen, in the two laſt trades mentioned.</p>
+            </div>
+            <div type="trade_problem">
+               <head>Eighthly for the Spaniſh Trade at preſent.</head>
+               <p>Although it is believed that that trade in time of Peace did vent more Engliſh Manufactures, and did employ as much trading ſhiping as any one Countrey, yet it is as certain that the Spa<g ref="char:EOLhyphen"/>niards, ſince the Warre, have ſtrictly prohibited all Engliſh Manufactures within his Domini<g ref="char:EOLhyphen"/>ons; So that thoſe few that are ſold by connivance, go off at a lower rate than formerly, and not without danger. And thoſe Spaniſh Goods imported bought at a dearer rate than uſually, and colourably brought in Dutch Shiping, to the impoveriſhing our ſelves and enriching of our Enemies, many ſcores of thouſand pounds this laſt yeare.</p>
+            </div>
+            <div type="remedy">
+               <head>The Remedy is ſhort.</head>
+               <p>That as the Spaniard hath prohibited Engliſh Manufactures, ſo we may prohibit Wine and Fruit, if not all Spaniſh Goods, till a Peace be made.</p>
+            </div>
+            <div type="trade_problem">
+               <head>Ninthly, touching a Banke.</head>
+               <p>I have in my <hi>Seaſonable obſervations</hi> ſhewed ſome of the benefits the Dutch have received by the help of their Banks, the prejudice we receive by their Banks, and the good we may doe our ſelves by ſetling them in <hi>England,</hi> which are very many and exceedingly uſefull and ad<g ref="char:EOLhyphen"/>vantagious to trade, ſupplying the want of Money, and encreaſing the Stock of a Nation, alſo helpfull to many great undertakings; by means whereof the Dutch have grown to ſuch greatnes and riches, which is beleived they have gained by our loſſe.</p>
+            </div>
+            <div type="remedy">
+               <head>The Remedy.</head>
+               <p>Is to ſettle one at <hi>London,</hi> to countermine them in all their tricks and devices, in governing Exchanges and Trade, which I have in part deſcribed, and have alſo the Orders of their Banks to produce, when called thereunto.</p>
+            </div>
+            <div type="trade_problem">
+               <pb n="4" facs="tcp:32308:3"/>
+               <head>Tenthly, touching a Court of Merchants.</head>
+               <p>Which may be alſo a Councell, or Committee for Trade, to continue aſwell in the Intervalls as during the Seſſion of Parliaments. And if it be thought fit to chooſe ſuch a one as I have deſcribed in my Propoſalls for a Banke, I humbly conceive it may be as great an advantage to Trade for the future, as hitherto it hath been hindred for want of one in <hi>England.</hi> Our neigh<g ref="char:EOLhyphen"/>bours have found ſuch benefit thereby, as they are unwillng to be without one, aſwell for their Advice in regulating Trad, as for their ſpeedy determining Controverſies among Merchants with ſmall charge, who now are often hindred in their trades, if not undone by following the Law at great coſt and charges.</p>
+            </div>
+            <div type="remedy">
+               <head>The Remedy.</head>
+               <p>Is to ſettle one at <hi>London,</hi> a Modell whereof I have ready to produce, when called thereunto.</p>
+            </div>
+         </div>
+         <div type="petition">
+            <head>To the Honorable the Grand Committee for Trade, ſiting in the Parliament-Houſe at <hi>Weſtminſter.</hi> The humble Petition of <hi>Samuel Lambe,</hi> of <hi>London</hi> Merchant.</head>
+            <opener>Humbly ſheweth,</opener>
+            <p>THat your Petitioner lately preſented to the Honorable Members of this preſent Parliament, a Booke touching increaſe of Shipping and trade, entituled <hi>Seaſonable Obſervations,</hi> And your Petitioner underſtanding that the Members of this Honorable Committee are the ſame Members of Parliament which received the ſaid Booke, a Breviate whereof is hereunto annexed, with Remedies to every Inconvenience mentioned therein, which your Petitioner contrived for the Publicke good, and for the better carrying on of ſo good and publique a worke. He humbly craves your advice and furtherance therein, being willing to be guided by ſuch Order as in your grave wiſdomes ſhall ſeeme meet. And he ſhall humbly ſhew his Reaſons thereunto when required.</p>
+            <closer>
+               <signed>And your Petitioner ſhall pray <hi>&amp;c.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="document">
+            <head>
+               <hi>Friday</hi> the Fourth of <hi>March</hi> 1658. At the Grand Committee for Trade.</head>
+            <p>
+               <label>ORDERED</label>
+            </p>
+            <p>
+               <note place="margin">
+                  <hi>M.</hi> Knight<g ref="char:EOLhyphen"/>ly in the Chaire.</note>THat the Sub-Committee, to whom it is referred to bring in a Bill or Bills, to prevent the Tranſportation of Wooll, Woollfells <hi>&amp;c.</hi> be revived, and do meet to morrow at two of the Clock in the Afternoon at the Treaſury Chamber.</p>
+            <p>The humble Petition and Repreſentation of Mr. <hi>Samuell Lambe</hi> of <hi>London</hi> Merchant. was this day read.</p>
+            <p>
+               <label>ORDERED</label>
+            </p>
+            <p>THat the Paper and Repreſentation of Mr. <hi>Samuell Lambe</hi> of <hi>London</hi> Merchant, be referred to the conſideration of the ſaid Sub-Committee, and that Mr. <hi>Samuell Lambe</hi> do attend the ſaid Sub-Committee.</p>
+            <list>
+               <head>Ordered that</head>
+               <item>Sr. <hi>Tho. Dickenſon.</hi>
+               </item>
+               <item>Mr. <hi>Topham.</hi>
+               </item>
+               <item>Mr. <hi>Slingsby Bethell.</hi>
+               </item>
+               <item>Captain <hi>Lilborne.</hi>
+               </item>
+               <item>Sr. <hi>Robert Honywood.</hi>
+               </item>
+               <item>Mr. <hi>Ramſden</hi>
+               </item>
+               <item>Mr. <hi>Marſhall.</hi>
+               </item>
+               <item>Mr. <hi>Vincent.</hi>
+               </item>
+               <item>Mr. <hi>Foley.</hi>
+               </item>
+               <item>Coll. <hi>Morley</hi>
+               </item>
+               <item>Mr. <hi>Long.</hi>
+               </item>
+               <item>Mr. <hi>Minors.</hi>
+               </item>
+               <item>Mr. <hi>Creſton.</hi>
+               </item>
+               <item>Mr. <hi>LLoyd.</hi>
+               </item>
+               <item>Mr. <hi>Delves.</hi>
+               </item>
+               <item>Mr. <hi>Jackſon.</hi>
+               </item>
+               <item>Mr. <hi>Collins.</hi>
+               </item>
+               <item>Mr. <hi>Thompſon.</hi>
+               </item>
+               <item>Mr. <hi>Jones.</hi>
+               </item>
+               <item>Mr. <hi>Bence.</hi>
+               </item>
+               <item>Alderman <hi>Rich.</hi>
+               </item>
+               <item>Mr. <hi>Herle.</hi>
+               </item>
+               <item>Mr. <hi>Bankes.</hi>
+               </item>
+               <item>Mr. <hi>Thompſon.</hi>
+               </item>
+               <item>Mr. <hi>Higgins.</hi>
+               </item>
+               <item>Colonell <hi>Gibbon.</hi>
+               </item>
+               <item>Mr. <hi>Biddulph.</hi>
+               </item>
+               <item>Mr. <hi>Kendall.</hi>
+               </item>
+               <item>Mr. <hi>Boſcawen.</hi>
+               </item>
+            </list>
+            <p>Be added to the Sub Committee touching Wooll and Woollfells.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:32308:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
